@@ -28,9 +28,8 @@ Portfolio project [https://andres-segura-dev.vercel.app](https://andres-segura-d
 ###
 
 <div align="center">
-  <img height="200" src="https://github.com/Andr7st/Andr7st/blob/main/own/icon/apple-touch-icon-120x120.png?raw=true"  />
+  <img height="84" src="https://github.com/Andr7st/Andr7st/blob/main/own/icon/apple-touch-icon-76x76.png?raw=true" />
   <h1>Andr7st</h1>
-  <p>Andrés Segura</p>
 </div>
 
 ###
@@ -51,6 +50,13 @@ Portfolio project [https://andres-segura-dev.vercel.app](https://andres-segura-d
 
 ###
 
+<!--
 
-###
+<div align="center">
+    <img src="https://img.shields.io/badge/-Linux-000?&logo=Linux" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+</div>
+
+-->
 
